@@ -4,5 +4,12 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="lib" path="lib/Jama-1.0.2.jar"/>
 	<classpathentry kind="lib" path="D:/Users/psxjr/workspace2/LstSqPolyReg/lib/shapefilereader-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/psxjr/workspace2/LstSqPolyReg/lib/acme.jar"/>
+	<classpathentry kind="lib" path="D:/Users/psxjr/workspace2/LstSqPolyReg/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="D:/Users/psxjr/workspace2/LstSqPolyReg/lib/JTS_Test.jar"/>
+	<classpathentry kind="lib" path="D:/Users/psxjr/workspace2/LstSqPolyReg/lib/jts-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Users/psxjr/workspace2/LstSqPolyReg/lib/jtsio-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Users/psxjr/workspace2/LstSqPolyReg/lib/junit.jar"/>
+	<classpathentry kind="lib" path="D:/Users/psxjr/workspace2/LstSqPolyReg/lib/xerces.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
