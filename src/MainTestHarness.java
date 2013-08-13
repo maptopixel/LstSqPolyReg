@@ -102,6 +102,7 @@ public class MainTestHarness {
 		xList.add((double) 5);
 		xList.add((double) 1);
 
+		
 		yList.add((double) 1);
 		yList.add((double) 4);
 		yList.add((double) 2);
